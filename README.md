@@ -4,6 +4,7 @@ Repository untuk Assignment Test 1 – QA(Tokopedia)_Batch325
 Xsis Mitra Utama Masa Pra Placement
 
 Link Spreadsheet 
+
 Full https://docs.google.com/spreadsheets/d/13Gi6E2_4imCI6OZjzdQHVWKbvOvhpC1OLVOr53oPaHY/edit?usp=sharing
 
 Sign Up 
